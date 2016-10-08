@@ -1,2 +1,3 @@
 # hello-world
-its my first repository
+Im RTU student. Now discovering gitHub
+
